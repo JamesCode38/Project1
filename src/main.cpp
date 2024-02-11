@@ -8,7 +8,7 @@ using namespace sf;
 int main() {
     cout << "Coucou" << endl;
 
-    Window window(VideoMode(800, 600), "My window");
+    Window window(VideoMode(800, 600), "My window II");
 
     // on fait tourner le programme jusqu'à ce que la fenêtre soit fermée
     while (window.isOpen())
